@@ -1,0 +1,15 @@
+C:\kkjkjkjkjkj\1\77\bin\Debug\net6.0\77.exe
+C:\kkjkjkjkjkj\1\77\bin\Debug\net6.0\77.deps.json
+C:\kkjkjkjkjkj\1\77\bin\Debug\net6.0\77.runtimeconfig.json
+C:\kkjkjkjkjkj\1\77\bin\Debug\net6.0\77.dll
+C:\kkjkjkjkjkj\1\77\bin\Debug\net6.0\77.pdb
+C:\kkjkjkjkjkj\1\77\obj\Debug\net6.0\77.csproj.AssemblyReference.cache
+C:\kkjkjkjkjkj\1\77\obj\Debug\net6.0\77.GeneratedMSBuildEditorConfig.editorconfig
+C:\kkjkjkjkjkj\1\77\obj\Debug\net6.0\77.AssemblyInfoInputs.cache
+C:\kkjkjkjkjkj\1\77\obj\Debug\net6.0\77.AssemblyInfo.cs
+C:\kkjkjkjkjkj\1\77\obj\Debug\net6.0\77.csproj.CoreCompileInputs.cache
+C:\kkjkjkjkjkj\1\77\obj\Debug\net6.0\77.dll
+C:\kkjkjkjkjkj\1\77\obj\Debug\net6.0\refint\77.dll
+C:\kkjkjkjkjkj\1\77\obj\Debug\net6.0\77.pdb
+C:\kkjkjkjkjkj\1\77\obj\Debug\net6.0\77.genruntimeconfig.cache
+C:\kkjkjkjkjkj\1\77\obj\Debug\net6.0\ref\77.dll
